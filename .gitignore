@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 Python_reference_sheet.pdf
 *.py
+*.txt
+*.env
